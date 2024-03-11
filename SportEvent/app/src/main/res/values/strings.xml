@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SportEvent</string>
+    <string name="teams">Teams</string>
+    <string name="previous_matches">Previous Matches</string>
+    <string name="upcoming_matches">Upcoming Matches</string>
+    <string name="select_a_team">Select a Team</string>
+    <string name="reminder_message">Do you really want to set reminder for %s</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="all">All</string>
+    <string name="all_team">All Team</string>
+    <string name="match_reminder">Match Reminder</string>
+    <string name="upcoming_match_for">Upcoming match for %s</string>
+    <string name="set_reminder_successfully">Set reminder successfully</string>
+    <string name="match">Match: %s</string>
+    <string name="date">Date: %s</string>
+</resources>
